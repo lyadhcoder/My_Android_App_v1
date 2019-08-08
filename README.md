@@ -4,8 +4,7 @@ A app for my website: [TheSourav.Com](http://thesourav.com)
 
 ## Action Bar Remove:-
 
-It has a **action bar**. If you want to delete this just go to ```App > res > values > style.xml``` then chnage this line
-
+It has a **action bar**. If you want to delete this just go to ```App > res > values > style.xml``` then chamge this line
 ```XML
 <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 ```
