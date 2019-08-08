@@ -4,7 +4,7 @@ A app for my website: [TheSourav.Com](http://thesourav.com)
 
 ## Action Bar Remove:-
 
-It has a **action bar**. If you want to delete this just go to ```App > res > values > style.xml``` then chamge this line
+It has a **action bar**. If you want to delete this just go to ```App > res > values > style.xml``` then change this line
 ```XML
 <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 ```
@@ -25,5 +25,7 @@ actionBar=getSupportActionBar();
 ## Change App Icon:-
 
 Right click **app** then go to ```new > Image Asset```, upload your image _**(Size Should be 512x512)**_, adjust size and ```next > finish```
-
+- [ ] Sleep
+- [ ] Eat
+- [x] Code
 ##With ❤️ [Sourav](http://thesourav.com)
