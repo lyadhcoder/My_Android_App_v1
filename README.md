@@ -10,7 +10,7 @@ It has a action bar. If you want to delete this just go to ```App > res > values
 
 into
 
-```Java
+```XML
 <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 ```
 
