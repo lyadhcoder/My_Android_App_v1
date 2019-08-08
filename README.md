@@ -25,7 +25,9 @@ actionBar=getSupportActionBar();
 ## Change App Icon:-
 
 Right click **app** then go to ```new > Image Asset```, upload your image _**(Size Should be 512x512)**_, adjust size and ```next > finish```
+
+##With ❤️ [Sourav](http://thesourav.com)
+
 - [ ] Sleep
 - [ ] Eat
 - [x] Code
-##With ❤️ [Sourav](http://thesourav.com)
