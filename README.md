@@ -21,7 +21,7 @@ actionBar=getSupportActionBar();
         actionBar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#0078ff")));
         actionBar.setTitle("Welcome to Sourav's Web");
 ```
-
+<img src="https://github.com/souravm77/images/blob/master/myappv1%20(NoActionBar)%20(1).jpg" width="200">  <img src="https://github.com/souravm77/images/blob/master/myappv1%20(NoActionBar)%20(2).jpg" width="200">
 ## Change App Icon:-
 
 Right click **app** then go to ```new > Image Asset```, upload your image _**(Size Should be 512x512)**_, adjust size and ```next > finish```
