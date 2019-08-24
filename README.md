@@ -4,7 +4,7 @@ A app for my website: [TheSourav.Com](http://thesourav.com)
 
 It has a **Action Bar**. Theme Color is *Default*.
 ### App Looks Like ⇣
-<img src="https://github.com/souravm77/images/blob/master/myappv1%20(WithActionBar)%20(1).jpg" width="200">   <img src="https://github.com/souravm77/images/blob/master/myappv1%20(WithActionBar)%20(2).jpg" width="200">
+<img src="https://github.com/souravm77/My_Android_App_v1/blob/master/screenshot/myappv1%20(WithActionBar)%20(1).jpg" width="200">   <img src="https://github.com/souravm77/My_Android_App_v1/blob/master/screenshot/myappv1%20(WithActionBar)%20(2).jpg" width="200">
 
 ## Action Bar Remove:-
 
@@ -26,7 +26,7 @@ actionBar=getSupportActionBar();
         actionBar.setTitle("Welcome to Sourav's Web");
 ```
 ### After Remove Action Bar App Looks Like ⇣
-<img src="https://github.com/souravm77/images/blob/master/myappv1%20(NoActionBar)%20(1).jpg" width="200">   <img src="https://github.com/souravm77/images/blob/master/myappv1%20(NoActionBar)%20(2).jpg" width="200">
+<img src="https://github.com/souravm77/My_Android_App_v1/blob/master/screenshot/myappv1%20(NoActionBar)%20(1).jpg" width="200">   <img src="https://github.com/souravm77/My_Android_App_v1/blob/master/screenshot/myappv1%20(NoActionBar)%20(2).jpg" width="200">
 ## Change App Icon:-
 
 Right click **app** then go to ```new > Image Asset```, upload your image _**(Size Should be 512x512)**_, adjust size and ```next > finish```
